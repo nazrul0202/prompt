@@ -1,0 +1,5 @@
+{
+  "name": "Vision Prompt Architect",
+  "description": "A professional tool for generating high-quality image generation prompts using Google Gemini.",
+  "requestFramePermissions": []
+}
